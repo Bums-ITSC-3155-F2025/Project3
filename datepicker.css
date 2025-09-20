@@ -55,8 +55,7 @@
   border-radius: var(--dp-radius-sm);
   overflow: hidden;
 }
-
-/* Your original (kept) */
+ 
 table {
   border: black solid 1px;
 }
@@ -80,7 +79,7 @@ table {
   padding: 6px 0;
 }
 
-/* First header row (arrows) — your script gives class .month-selector */
+/* First header row (arrows) .month-selector */
 .month-selector {
   user-select: none;
   padding: 6px 10px;
@@ -99,7 +98,6 @@ table {
 }
 
 /* ---------- Cells ---------- */
-/* Your originals (kept) */
 td.not-in-month{
   background-color: transparent;
 }
